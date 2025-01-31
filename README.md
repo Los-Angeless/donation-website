@@ -1,4 +1,5 @@
-# Donation Website for Cancer Patient
+# Donation Website for Cancer Patient 
+# Created for fun purspose only
 
 This project is a simple website designed to raise donations for a cancer patient. It includes sections for the patient's image, a QR code for payment, and an about/abstract section to provide context and information about the cause.
 
